@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Default hello label!</string>
+    <string name="app_name">RoboJect Example</string>
+    <string name="title_activity_another">AdditionalActivity</string>
+    <string name="text_from_intent_default">This is the default text that should be replaced by text from the previous activity.</string>
+    <string name="random_string">Just a random string</string>
+    <string name="next_button_label">Next</string>
+    <string name="toggle_button_label">Toggle Below</string>
+    <string name="text_from_resources_default">This is the default text from resources, it should be replaced with random_string from the strings.xml</string>
+	<string name="text_from_intent_action">Oh hai! I\'m text from another activity!</string>
+</resources>
